@@ -2,8 +2,7 @@
 
 A simple, semantic HTML blog page about Mr. Whiskers, a very lovable cat. This project focuses on writing clean, accessible HTML structure.
 
-**View Live:** [https://aqeelahlabs.github.io/mr-whiskers-blog/](https://aqeelahlabsgithub.io/mr-whiskers-blog/)
-
+**View Live:**  https://aqeelahlabs.github.io/Mr-Whiskers-Blog/
 ## Features
 
 - Header with a welcome heading, a captioned image (`figure` / `figcaption`), and a navigation menu
